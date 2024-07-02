@@ -8,3 +8,4 @@ Version 1.0
 
 Version 1.1
     Allows for manual user input for calcuations and graphing.
+    Currently in work.

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Constants
+# Constants/Inputs
 mass_flow_rate = 100  # kg/s
 exit_velocity = 300  # m/s
 initial_velocity = 100  # m/s
